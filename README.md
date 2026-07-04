@@ -136,13 +136,9 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-### Home Page
-
-*(Add a screenshot here.)*
-
 ### Recommendation Output
 
-*(Add another screenshot here.)*
+![Streamlit](images/streamlit ss.png)
 
 ---
 
