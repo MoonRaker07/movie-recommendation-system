@@ -138,7 +138,7 @@ streamlit run app.py
 
 ### Recommendation Output
 
-![Streamlit](images/streamlit ss.png)
+![Streamlit App](images/streamlit-ss.png)
 
 ---
 
